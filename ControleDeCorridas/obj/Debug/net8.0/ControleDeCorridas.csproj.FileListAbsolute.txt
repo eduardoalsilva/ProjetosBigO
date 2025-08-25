@@ -1,0 +1,14 @@
+/home/acer/Documentos/github/ControleDeCorridas/bin/Debug/net8.0/ControleDeCorridas
+/home/acer/Documentos/github/ControleDeCorridas/bin/Debug/net8.0/ControleDeCorridas.deps.json
+/home/acer/Documentos/github/ControleDeCorridas/bin/Debug/net8.0/ControleDeCorridas.runtimeconfig.json
+/home/acer/Documentos/github/ControleDeCorridas/bin/Debug/net8.0/ControleDeCorridas.dll
+/home/acer/Documentos/github/ControleDeCorridas/bin/Debug/net8.0/ControleDeCorridas.pdb
+/home/acer/Documentos/github/ControleDeCorridas/obj/Debug/net8.0/ControleDeCorridas.GeneratedMSBuildEditorConfig.editorconfig
+/home/acer/Documentos/github/ControleDeCorridas/obj/Debug/net8.0/ControleDeCorridas.AssemblyInfoInputs.cache
+/home/acer/Documentos/github/ControleDeCorridas/obj/Debug/net8.0/ControleDeCorridas.AssemblyInfo.cs
+/home/acer/Documentos/github/ControleDeCorridas/obj/Debug/net8.0/ControleDeCorridas.csproj.CoreCompileInputs.cache
+/home/acer/Documentos/github/ControleDeCorridas/obj/Debug/net8.0/ControleDeCorridas.dll
+/home/acer/Documentos/github/ControleDeCorridas/obj/Debug/net8.0/refint/ControleDeCorridas.dll
+/home/acer/Documentos/github/ControleDeCorridas/obj/Debug/net8.0/ControleDeCorridas.pdb
+/home/acer/Documentos/github/ControleDeCorridas/obj/Debug/net8.0/ControleDeCorridas.genruntimeconfig.cache
+/home/acer/Documentos/github/ControleDeCorridas/obj/Debug/net8.0/ref/ControleDeCorridas.dll
